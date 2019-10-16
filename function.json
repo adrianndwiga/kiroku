@@ -2,7 +2,8 @@
     "disabled": false,
     "bindings": [
         {
-            "type": "httpTrigger"
+            "type": "httpTrigger",
+            "direction": "out"
         }
     ]
 }
